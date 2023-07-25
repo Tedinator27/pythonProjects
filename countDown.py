@@ -1,4 +1,4 @@
-//When ran, the output will be a countdown timer that will output the time left
+#When ran, the output will be a countdown timer that will output the time left
 import time
 
 secs = input("Enter time in seconds: ")
