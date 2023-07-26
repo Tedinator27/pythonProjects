@@ -1,3 +1,4 @@
+#Examines a potential password's strength, if it isn't strong enough, the program will reject it 
 password = input("Enter password: ")
 capital = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 lowercase = 'abcdefghijklmnopqrstuvwxyz'
