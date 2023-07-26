@@ -1,3 +1,4 @@
+#When ran, the code will output an accurate digital clock on your screen
 from tkinter import *
 from time import strftime
 
