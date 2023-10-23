@@ -1,4 +1,5 @@
 #When ran, the code will output an accurate digital clock on your screen
+#credits to @evolvedata22 on TikTok for project idea and walkthrough
 from tkinter import *
 from time import strftime
 
