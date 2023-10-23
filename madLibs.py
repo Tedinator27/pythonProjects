@@ -1,3 +1,4 @@
+#credits to @TechWithTim on YouTube for project idea and walkthrough
 with open("story.txt", "r") as f: #opening text file
     story = f.read()
 
