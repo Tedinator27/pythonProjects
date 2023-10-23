@@ -1,3 +1,4 @@
+#credits to @TechWithTim on YouTube for project idea and walkthrough
 import requests
 
 API_KEY = "f493235022f117443717201d55ff1d93"
