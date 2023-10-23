@@ -1,5 +1,5 @@
 #When ran, the output will be a countdown timer that will output the time left
-#credits to @TechWithTim on YouTube for walkthrough and project idea
+#credits to @evolvedata22 on TikTok for walkthrough and project idea
 import time
 
 secs = input("Enter time in seconds: ")
