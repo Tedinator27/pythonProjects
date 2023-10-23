@@ -1,4 +1,5 @@
 #This program is to generate 10 random math problems for the user to solve.
+#credits to @TechWithTim on YouTube for project idea and walkthrough
 import random
 import time
 
