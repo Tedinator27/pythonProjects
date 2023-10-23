@@ -1,4 +1,5 @@
 #Examines a potential password's strength, if it isn't strong enough, the program will reject it 
+#credits to @evolvedata22 on TikTok for project idea and walkthrough
 password = input("Enter password: ")
 capital = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 lowercase = 'abcdefghijklmnopqrstuvwxyz'
